@@ -1,0 +1,129 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Front End",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Especialização FULL STACK DEVELOPMENT Mobile & Web Cloud",
+        "url": "https://www.univem.edu.br/pos/full-stack-development"
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Back End",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Especialização FULL STACK DEVELOPMENT Mobile & Web Cloud",
+        "url": "https://www.univem.edu.br/pos/full-stack-development"
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "Gestão de Projetos",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "MBA - Gestão de Projetos",
+        "url": "https://www.univem.edu.br/pos/mba-gestao-de-projetos"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "O que estudar para se tornar um desenvolvedor front-end? 2022",
+      "url": "https://www.youtube.com/watch?v=Ab-kGzlCCWI"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Como se tornar um desenvolvedor FRONTEND? (Passo a passo / Roadmap)",
+      "url": "https://www.youtube.com/watch?v=LqXqBgIUbJg"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "Paginação no Front End com JS puro | Code/Drops #43",
+      "url": "https://www.youtube.com/watch?v=6-VDE3H9-WU"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "Clone do NETFLIX em REACTJS para Iniciantes",
+      "url": "https://www.youtube.com/watch?v=tBweoUiMsDg"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "Angular vs React.js vs Vue.js - Qual framework frontend escolher",
+      "url": "https://www.youtube.com/watch?v=DTy3oIU-NN4"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "React JS // Dicionário do Programador",
+      "url": "https://www.youtube.com/watch?v=NhUr8cwDiiM"
+    },
+    {
+      "id": 8,
+      "categoriaId": 2,
+      "titulo": "ASP.NET Minimal APIs | por André Baltieri",
+      "url": "https://www.youtube.com/watch?v=s_ihuUjnsec"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "Asp.NEt 6 - O que aconteceu com a classe Startup?",
+      "url": "https://www.youtube.com/watch?v=VgjHQvprRy0"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "C# - Programação Assíncrona - Usando Task e await",
+      "url": "https://www.youtube.com/watch?v=0gJriLMOsmo"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": ".NET Core - Apresentando o RabbitMQ",
+      "url": "https://www.youtube.com/watch?v=CF63uG0rTcU"
+    },
+    {
+      "id": 13,
+      "categoriaId": 3,
+      "titulo": "O que faz um Scrum Master",
+      "url": "https://www.youtube.com/watch?v=ZURpplzNEh4"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "Scrum - exemplo prático",
+      "url": "https://www.youtube.com/watch?v=vpKlvPGaReI"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "titulo": "Metodologia Kanban 2022",
+      "url": "https://www.youtube.com/watch?v=z1drxmwUCJg"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "Como criar um workflow no JIRA",
+      "url": "https://www.youtube.com/watch?v=Ocx1dVy8d5M"
+    },
+    {
+      "titulo": "Diferença front end",
+      "url": "https://www.youtube.com/watch?v=Em0R3csNMVE",
+      "categoriaId": 1,
+      "id": 17
+    },
+    {
+      "titulo": "teste",
+      "url": "https://www.youtube.com/watch?v=GvKDpv0vI-0",
+      "categoriaId": 2,
+      "id": 18
+    }
+  ]
+}
